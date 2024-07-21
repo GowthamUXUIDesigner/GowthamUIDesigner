@@ -1,4 +1,4 @@
-# <br>👋 Hi there! I'm Gowtham P<br>
+# 👋 Hi there! I'm Gowtham P<br>
 A Passionate UX/UI Designer, UX Researcher, Interaction Designer, and Web Designer.<br><br>🔭 Currently, I'm working remotely as a UI/UX Designer at Cognorise InfoTech, where I craft intuitive and delightful user experiences.<br><br>
 🎨 **Design Philosophy:** I believe in creating designs that not only look good but also feel right. My approach blends aesthetics with functionality, ensuring users enjoy seamless and engaging interactions.<br><br>
 
